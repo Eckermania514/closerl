@@ -1,4 +1,2 @@
-@echo off
-color 02
-cd C:/scripts
+cd C:\scripts
 python bot.py
